@@ -1,0 +1,15 @@
+C:\Users\Яша\Desktop\C#HW8\task62\bin\Debug\net6.0\task62.exe
+C:\Users\Яша\Desktop\C#HW8\task62\bin\Debug\net6.0\task62.deps.json
+C:\Users\Яша\Desktop\C#HW8\task62\bin\Debug\net6.0\task62.runtimeconfig.json
+C:\Users\Яша\Desktop\C#HW8\task62\bin\Debug\net6.0\task62.dll
+C:\Users\Яша\Desktop\C#HW8\task62\bin\Debug\net6.0\task62.pdb
+C:\Users\Яша\Desktop\C#HW8\task62\obj\Debug\net6.0\task62.csproj.AssemblyReference.cache
+C:\Users\Яша\Desktop\C#HW8\task62\obj\Debug\net6.0\task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яша\Desktop\C#HW8\task62\obj\Debug\net6.0\task62.AssemblyInfoInputs.cache
+C:\Users\Яша\Desktop\C#HW8\task62\obj\Debug\net6.0\task62.AssemblyInfo.cs
+C:\Users\Яша\Desktop\C#HW8\task62\obj\Debug\net6.0\task62.csproj.CoreCompileInputs.cache
+C:\Users\Яша\Desktop\C#HW8\task62\obj\Debug\net6.0\task62.dll
+C:\Users\Яша\Desktop\C#HW8\task62\obj\Debug\net6.0\refint\task62.dll
+C:\Users\Яша\Desktop\C#HW8\task62\obj\Debug\net6.0\task62.pdb
+C:\Users\Яша\Desktop\C#HW8\task62\obj\Debug\net6.0\task62.genruntimeconfig.cache
+C:\Users\Яша\Desktop\C#HW8\task62\obj\Debug\net6.0\ref\task62.dll
